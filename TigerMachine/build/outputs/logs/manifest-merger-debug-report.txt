@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from M:\T\TigerMachine\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from M:\T\TigerMachine\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from M:\T\TigerMachine\src\main\AndroidManifest.xml
+		INJECTED from M:\T\TigerMachine\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:7:5-47
+INJECTED from M:\T\TigerMachine\src\main\AndroidManifest.xml:7:5-47
+INJECTED from M:\T\TigerMachine\src\main\AndroidManifest.xml:7:5-47
+INJECTED from M:\T\TigerMachine\src\main\AndroidManifest.xml:7:5-47
+INJECTED from M:\T\TigerMachine\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from M:\T\TigerMachine\src\main\AndroidManifest.xml
+		INJECTED from M:\T\TigerMachine\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from M:\T\TigerMachine\src\main\AndroidManifest.xml
+		ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from M:\T\TigerMachine\src\main\AndroidManifest.xml
+application
+ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:9:5-23:19
+	android:label
+		ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:11:9-42
+	android:allowBackup
+		ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:13:9-40
+activity#com.dennis.tigermachine.MainActivity
+ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:15:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from M:\T\TigerMachine\src\main\AndroidManifest.xml:20:27-74
